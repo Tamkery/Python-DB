@@ -1,7 +1,10 @@
 ---
 
 
-## title: Python世界的概念——字典<br />date:  2020-01-13  19:45:08<br />tags: Python<br />categories: knowledge base
+## title: Python世界的概念——字典<br />
+date:  2020-01-13  19:45:08<br />
+tags: Python<br />
+categories: 
 
 [TOC]
 ## pip
