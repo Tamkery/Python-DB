@@ -10,4 +10,9 @@ https://python.codemao.cn/
 
 ## Hbuilder X
 
-Vue js编辑器，通过配置也可以编译Python，支持插件，和Markdown的书写
+Vue js编辑器，通过配置也可以编译Python，支持插件，和Markdown的书写。
+
+
+
+ Node.js
+
